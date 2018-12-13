@@ -1,0 +1,7 @@
+apiVersion: app.vtn.com/v1alpha1
+kind: Servicedependence
+metadata:
+  name: example-servicedependence
+spec:
+  # Add fields here
+  size: 3
