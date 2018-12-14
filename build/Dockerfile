@@ -4,4 +4,4 @@ RUN apk upgrade --update --no-cache
 
 USER nobody
 
-ADD build/_output/bin/vtn-operator /usr/local/bin/vtn-operator
+ADD build/_output/bin/VTN-operator /usr/local/bin/vtn-operator
